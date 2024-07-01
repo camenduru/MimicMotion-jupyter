@@ -19,5 +19,4 @@ https://tencent.github.io/MimicMotion/
 
 ### 🖼 Output
 
-### 🏢 Sponsor
-https://runpod.io
+
