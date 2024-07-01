@@ -19,4 +19,4 @@ https://tencent.github.io/MimicMotion/
 
 ### 🖼 Output
 
-
+https://github.com/camenduru/MimicMotion-jupyter/assets/54370274/13ce8b75-d7cb-42b4-a637-82109419df19
